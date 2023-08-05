@@ -24,13 +24,13 @@ In this project, a product listing application is developed using React. The app
 - Users can filter products by category by clicking on the category buttons.
 - The `btnFilter` function is used to filter the products based on the selected category.
 
-### ProductCard Component
+### ProductCard Component 
 - The ProductCard component receives the `shop` state containing the list of products as props.
 - It maps through the product data and renders each product as a card.
 - Each card displays the product title, price, and an image.
 - The product image is initially displayed, but upon clicking the "Info" button, the product description is revealed in a tooltip-like manner using CSS transitions.
 
-## Styling
+## Styling 
 - The application's styling is done using CSS.
 - The page has a light background with cards for each product.
 - Hover effects and transitions are applied to cards and buttons for better user experience.
