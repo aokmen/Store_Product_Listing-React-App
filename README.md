@@ -5,11 +5,11 @@
 
 ## Description:
 
-In this project, a product listing application is developed using React. The app fetches data from the "Fake Store API" to display a list of products available in a fake online store. The main components used in this project are:
+In this project, a product listing application is developed using React. The app fetches data from the "Fake Store API" to display a list of products available in a fake online store. The main components used in this project are: 
 
 ## Components:
 
-### Home Component
+### Home Component 
 - The Home component serves as the main entry point of the application.
 - It fetches the product data from the "Fake Store API" using the `fetch` function and `useState` hook.
 - The fetched product data is stored in the `shop` state.
