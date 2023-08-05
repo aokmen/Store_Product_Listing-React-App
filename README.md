@@ -35,6 +35,6 @@ In this project, a product listing application is developed using React. The app
 - The page has a light background with cards for each product.
 - Hover effects and transitions are applied to cards and buttons for better user experience.
 
-## Summary
+## Summary 
 The Fake Store Product Listing application built with React allows users to view a list of products from the "Fake Store API" and filter products by category. The project demonstrates fetching data from an API, managing state with `useState` hook, and creating reusable components to display product information. It can serve as a foundation for building more complex e-commerce applications with features like product details, shopping cart functionality, and user authentication.
 
